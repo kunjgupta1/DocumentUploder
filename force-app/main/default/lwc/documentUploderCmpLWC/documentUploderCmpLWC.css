@@ -1,0 +1,8 @@
+
+lightning-primitive-file-droppable-zone.slds-file-selector__dropzone{
+    border:none !important;
+}
+
+span.slds-file-selector__text.slds-medium-show {
+    display: none;
+}
